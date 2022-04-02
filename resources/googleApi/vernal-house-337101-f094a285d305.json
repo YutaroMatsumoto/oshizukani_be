@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vernal-house-337101",
+  "private_key_id": "f094a285d305cd302cdd7808029d3eccb99f4d2e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCudqOGWIiPz5eo\npnK1HfSSSjieeJJOq8JCOe9OAYdiHZ+y4i1P6MtS23sKrFnP8zGwmpyYJ4m94H9s\nTY1iRL5/k0LFdmfvlCWNVoveebCLyuI0+ypin7YbWfiDUKoO17Xc4J++nInXfk3J\nMhsJhjO+bEypKTgIsgDScpBS8YtsD/k5CmeQkBurssQoXfqOL060EYsmq065FT7t\n6Nr0Gh3lbZUr24XshucEMPWNX42rwJI6fuSZFdIvFZO3lDQk/QuVSBuitkS1HM7Q\nqC0w0ZxVJ08+skXEDLbBLh7M9ZCmGoE4sy0YgYFc6qJJU4Q20e7ZDK4tMMRDNJbe\nAUDzbX1RAgMBAAECggEAAsg2CzBSEdcEiwYyeem9ysUVD46KfhIrnBzqkG13paHQ\nIuJhSMRZ1QWrzzZYjUzKa/pJ3nxHlvKjnYwZYdSI+Xr/8NWr9SGr5/aAxFNfnxm6\nZJAPyOL/8gI2iLjf1AeZE79flMLQHj1aS10kRLvc4IpqE4rVJQBaVoDIr+XrAatd\nydTinN/ir4jyEzEkwnTFYTui+anUVQWmIHFnFuPudnjvawVcqo0q8imNbEGKorpW\nx/wkrhuEnnOH6TNo3cpso3L6kJf8c1kTKN0GQHUxNuAC1e8KhozmmQPNfe/weoSb\n3/5ELvmGHnQeZl0ARUVF+X5zCyGApnDE509dreSchQKBgQDgHeaBC+EkB5vDK22M\nr8+nYO5gfJjxflE+I6+b8Su8L6QKBboSeCgklICTDEEI2mZDLqO1xx91/6zkRdPi\n8/+7iyjJfQbIXwniUlbrNvn8tM1+XKHC8zjtnhcc9bfZQtOHabe7FTAT1IK5rXw6\nEHgaUfDvlb6WnnsPgYgNu6xulQKBgQDHSGonxsLLSFJMGEJws7kqB0yDaHNorURd\nXGol2h7RJeZ5qmuWDjPkjBq3Q/M1XY5HNcMjADXpY8XDASfwDs7eskwQF9+wwbnh\nV7ZLZAY0a8XZ9cCf0hcsd5qWiChIaZqyDVRxm11oZO5YEYFwvt3NPG+H5+HunzZp\nw2lh8OkwzQKBgDqe14nth4gbDVzxYQgpfFE1g2RtcrvH5IwyXV6WqG/iri+I6/Ck\nySs4RKEx1Vjxd0ofSubjHJGKvLhAo3l7hOqTLan2L+39HeK60s1XZe/5gr6IkC8j\n20Ib1cPXaa1EU3vZ5RrkId0t+ruCazns0N1hjXm9W0qeTWXy5Zlh+2o5AoGAJ43o\nBB0fbNnd+9yU02nYxs7MEQkaXxyFBULijsDMfRbYuC1rTU1kX2ivpNCH5X+8TcYO\nBVR1Xu2+wwXnt245AVrCXi9e5uaMzn1qYWxpDt6VVr3AjfhVQS48MMS1uim72rtq\nl2IPGDlwVWqkFozL2YC1YnRUE9jmI/f1Yss+fcECgYAFHPElQORlKVVIRoozYvsi\n5GU5vDSOzO0E4nVaX86+xTMOGp2dyK63Yew2xJJUvds+Mnced0lnoEpJEON93zti\neb+Wz+dniYEN8IuZkC9kGXrkFEgzrq3mLcDhAuxziKGBy8prU2J0bG0gSTC9bIcE\ne47rwOMuPtsvqCNpHIDOWQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "oshizukani@vernal-house-337101.iam.gserviceaccount.com",
+  "client_id": "102523691153493097772",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/oshizukani%40vernal-house-337101.iam.gserviceaccount.com"
+}
