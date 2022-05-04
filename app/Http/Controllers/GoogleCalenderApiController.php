@@ -51,6 +51,6 @@ class GoogleCalenderApiController extends Controller
             }
         }
 
-        return $isNowMtg ? 'true' : 'false';
+        return response()->json(['isMtg' => $isNowMtg]);
     }
 }
