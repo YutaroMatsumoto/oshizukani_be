@@ -50,3 +50,7 @@ sail up
 ```
 sail shell
 ```
+
+### Heroku へのデプロイ
+
+https://devcenter.heroku.com/ja/articles/getting-started-with-laravel#creating-a-laravel-application
