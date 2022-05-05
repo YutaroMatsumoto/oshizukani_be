@@ -51,6 +51,25 @@ sail up
 sail shell
 ```
 
+# Heroku
+
 ### Heroku へのデプロイ
 
 https://devcenter.heroku.com/ja/articles/getting-started-with-laravel#creating-a-laravel-application
+
+# テスト
+
+### テストファイルの作成
+
+```
+php artisan make:test Api/ファイル名
+
+// 例
+php artisan make:test Api/GoogleCalenderApiControllerTest
+```
+
+### テストの実行
+
+```
+php artisan test --testsuite=Feature
+```
